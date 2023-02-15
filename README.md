@@ -1,1 +1,5 @@
-# Residential-lawn-turf-app
+- 👋 Hello ... I'm cpendleton477
+- 🍃 I'm interested in ... serving my residntial lawn artificial turf customers
+- 🧠 I'm currently learning ... how to write code for my residential lawn artificial turf software
+- 👀 I'm looking to collaborate on ... writing code for my residential lawn artificial turf software
+- 📬 How to reach me ... vist my <a href="https://www.sandiegoturfca.com/residential-lawn">Residentail Turf Installation</a> website
